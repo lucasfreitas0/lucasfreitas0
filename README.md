@@ -33,8 +33,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=lucasfreitas0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[github contribution grid snake animation](https://raw.githubusercontent.com/lucasfreitas0/lucasfreitas0/output/github-contribution-grid-snake-dark.svg)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <h2 align="center">⚡ Stats ⚡</h2>
